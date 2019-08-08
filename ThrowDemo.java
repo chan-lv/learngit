@@ -9,7 +9,7 @@ import java.text.ParseException;
  * 
  * throw 一般用于开发者主动抛出异常
  * 抛出的一个具体的异常对象
- * 
+ * test
  * 区别
  * throws
  * 	  方法名上，后面跟的是异常的类名
